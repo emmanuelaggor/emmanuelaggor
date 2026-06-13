@@ -123,7 +123,7 @@ BSc Information Technology - *Expected Graduation: 2026*
 
 | Current Courses | Highlights |
 |---|---|
-| Intelligent Systems (INF 4xx) | AI/ML applications, neural networks |
+| Intelligent Systems (INF 412) | AI/ML applications, neural networks |
 | Systems Security & Administration | Network defense, system hardening |
 | E-Commerce | Digital business systems |
 | Project Management | Agile, risk management |
